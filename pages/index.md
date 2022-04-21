@@ -5,3 +5,4 @@ This is a little thing that I made to see if i wanted to use markdown more in my
 ### Are you gonna do it more?
 Dunno yet. It's cool so far.
 ### Page test?
+[Here.](page1.md)
